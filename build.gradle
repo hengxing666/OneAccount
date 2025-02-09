@@ -30,7 +30,7 @@ allprojects {
         maven { url "https://jitpack.io" }
         maven {url 'http://developer.huawei.com/repo/'}
         maven {
-            url "http://repo.baichuan-android.taobao.com/content/groups/BaichuanRepositories/"
+            url "https://mirrors.tuna.tsinghua.edu.cn/maven/"
         }
         google()
         mavenCentral()
